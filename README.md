@@ -69,7 +69,7 @@ Repository: https://github.com/amantiwari01/Python-Codes
 
 --- 
 
-### 5. Calculator🖩
+### 5. Calculator 🖩
 - Built using Python and Tkinter
 - Performs basic arithmetic operations ( + , - , × , ÷ )
 - User-friendly GUI with real-time results  
