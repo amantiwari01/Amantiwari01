@@ -63,13 +63,13 @@ Self Project 🎓
 ### 3.Student Result Analysis  Project 🎓
 - Built using Python and Jupyter Notebook
 - Performs data cleaning, statistical analysis, and visualization
-- Identifies performance trends and correlations in student results
+- Identifies performance trends and correlations in student results  
 Repository: https://github.com/amantiwari01/Student_result_Analysis
 
 ---
 
 ### 4. Python Codes 🐍
-- Collection of Python practice programs  
+- Collection of Python practice programs 
 Repository: https://github.com/amantiwari01/Python-Codes  
 
 --- 
