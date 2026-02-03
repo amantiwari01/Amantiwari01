@@ -65,7 +65,7 @@ Self Project 🎓
 - Performs data cleaning, statistical analysis, and visualization
 - Identifies performance trends and correlations in student results
 - Provides insights for educators and institutions
- Repository: https://github.com/amantiwari01/Student_result_Analysis
+Repository: https://github.com/amantiwari01/Student_result_Analysis
 
 ---
 
