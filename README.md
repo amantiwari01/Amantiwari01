@@ -50,7 +50,7 @@ Repository: Retail_Billing_System
 - Built using Python and Tkinter  
 - Displays current Time and Date  
 - Real-time automatic update  
-Repository: Digital_clock  
+Repository: https://github.com/amantiwari01/Digital_clock
 
 ---
 
