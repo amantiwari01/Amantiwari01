@@ -35,8 +35,7 @@ Seeking opportunities to apply technical skills and build real-world software so
 
 ---
 
-# My Projects
-  ---
+## My Projects
   
 ### 1. Retail Billing System 🧾
 - Built using Python and Tkinter  
