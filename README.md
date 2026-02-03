@@ -42,7 +42,7 @@ Seeking opportunities to apply technical skills and build real-world software so
 - GUI-based billing application  
 - Manages inventory and bill generation  
 - Real-time calculations and validation  
-Repository: Retail_Billing_System  
+Repository: https://github.com/amantiwari01/RETAIL_BILLING_SYSTEM  
 
 ---
 
@@ -56,19 +56,19 @@ Repository: https://github.com/amantiwari01/Digital_clock
 
 ### 3. College Project 🎓
 - Academic project for learning programming concepts  
-Repository: BOOK_STORE_CLONE 
+Repository: https://github.com/amantiwari01/BOOK_STORE_CLONE 
 
 ---
 
 ### 4. Python Codes 🐍
 - Collection of Python practice programs  
-Repository: Python-Codes  
+Repository: https://github.com/amantiwari01/Python-Codes  
 
 --- 
 
 ### 5. Demo Project
 - Small calculator as demo programs for testing and learning  
-Repository: calculator 
+Repository:https://github.com/amantiwari01/calculator 
 
 ---
 
