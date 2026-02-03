@@ -66,6 +66,12 @@ Repository: Python-Codes
 
 --- 
 
+### 5. Demo Project
+- Small calculator as demo programs for testing and learning  
+Repository: calculator 
+
+---
+
 ## Certifications
 - Python Programming – Great Learning  
 - Python Programming – IBM  
