@@ -57,7 +57,7 @@ Repository: https://github.com/amantiwari01/Digital_clock
 
 ---
 
-self Project 🎓
+Self Project 🎓
 ---
 
 ### 3.Student Result Analysis  Project 🎓
