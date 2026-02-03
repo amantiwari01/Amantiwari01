@@ -37,6 +37,9 @@ Seeking opportunities to apply technical skills and build real-world software so
 
 # My Projects
 
+  College Project 🎓
+  ---
+  
 ### 1. Retail Billing System 🧾
 - Built using Python and Tkinter  
 - GUI-based billing application  
@@ -54,9 +57,15 @@ Repository: https://github.com/amantiwari01/Digital_clock
 
 ---
 
-### 3. College Project 🎓
-- Academic project for learning programming concepts  
-Repository: https://github.com/amantiwari01/BOOK_STORE_CLONE 
+self Project 🎓
+---
+
+### 3.Student Result Analysis  Project 🎓
+- Built using Python and Jupyter Notebook
+- Performs data cleaning, statistical analysis, and visualization
+- Identifies performance trends and correlations in student results
+- Provides insights for educators and institutions
+ Repository: https://github.com/amantiwari01/Student_result_Analysis
 
 ---
 
