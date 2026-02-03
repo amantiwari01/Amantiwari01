@@ -55,7 +55,7 @@ Repository: https://github.com/amantiwari01/Digital_clock
 
 ---
 
-### 3. Student Result Analysis  Project 🎓
+### 3. Student Result Analysis  📊
 - Built using Python and Jupyter Notebook
 - Performs data cleaning, statistical analysis, and visualization
 - Identifies performance trends and correlations in student results  
@@ -69,9 +69,11 @@ Repository: https://github.com/amantiwari01/Python-Codes
 
 --- 
 
-### 5. Demo Project
-- Small calculator as demo programs for testing and learning  
-Repository:https://github.com/amantiwari01/calculator 
+### 5. Calculator🖩
+- Built using Python and Tkinter
+- Performs basic arithmetic operations ( + , - , × , ÷ )
+- User-friendly GUI with real-time results  
+Repository: https://github.com/amantiwari01/Calculator 
 
 ---
 
