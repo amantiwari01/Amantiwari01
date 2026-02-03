@@ -82,4 +82,4 @@ Repository: Python-Codes
 
 Email: tiwariaman76071@gmail.com  
 GitHub: https://github.com/amantiwari01  
-LinkedIn: linkedin.com/in/aman-tiwari-3316072a1
+LinkedIn: https://www.linkedin.com/in/aman-tiwari-3316072a1
