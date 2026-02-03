@@ -55,7 +55,7 @@ Repository: https://github.com/amantiwari01/Digital_clock
 
 ---
 
-### 3.Student Result Analysis  Project 🎓
+### 3. Student Result Analysis  Project 🎓
 - Built using Python and Jupyter Notebook
 - Performs data cleaning, statistical analysis, and visualization
 - Identifies performance trends and correlations in student results  
