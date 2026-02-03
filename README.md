@@ -64,7 +64,6 @@ Self Project 🎓
 - Built using Python and Jupyter Notebook
 - Performs data cleaning, statistical analysis, and visualization
 - Identifies performance trends and correlations in student results
-- Provides insights for educators and institutions
 Repository: https://github.com/amantiwari01/Student_result_Analysis
 
 ---
