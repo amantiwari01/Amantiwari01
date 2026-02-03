@@ -56,7 +56,7 @@ Repository: Digital_clock
 
 ### 3. College Project 🎓
 - Academic project for learning programming concepts  
-Repository: clg-project  
+Repository: BOOK_STORE_CLONE 
 
 ---
 
