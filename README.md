@@ -29,13 +29,12 @@ Repository: Retail_Billing_System
 - Shows current Time and Date  
 - Real-time update every second  
 Repository: Digital_clock  
-
 ---
 
 ### 3. College Project 🎓
 - Academic project for learning and practice  
 - Basic implementation of programming concepts  
-Repository: clg-project  
+Repository: Retail_Billing_System
 
 ---
 
