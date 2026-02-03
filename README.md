@@ -36,8 +36,6 @@ Seeking opportunities to apply technical skills and build real-world software so
 ---
 
 # My Projects
-
-  College Project 🎓
   ---
   
 ### 1. Retail Billing System 🧾
@@ -55,9 +53,6 @@ Repository: https://github.com/amantiwari01/RETAIL_BILLING_SYSTEM
 - Real-time automatic update  
 Repository: https://github.com/amantiwari01/Digital_clock
 
----
-
-Self Project 🎓
 ---
 
 ### 3.Student Result Analysis  Project 🎓
