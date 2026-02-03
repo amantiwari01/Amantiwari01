@@ -69,7 +69,7 @@ Repository: https://github.com/amantiwari01/Student_result_Analysis
 ---
 
 ### 4. Python Codes 🐍
-- Collection of Python practice programs 
+- Collection of Python practice programs  
 Repository: https://github.com/amantiwari01/Python-Codes  
 
 --- 
